@@ -25,7 +25,7 @@
       </div>
     </div>
   {:else}
-    <div class="h-10 w-10 rounded-lg bg-white/90 p-2 dark:bg-zinc-800">
+    <div class="h-10 w-10 rounded-lg bg-white/90 p-2 dark:bg-zinc-400">
       <slot name="icon" />
     </div>
   {/if}
