@@ -91,22 +91,22 @@ dark:from-sky-800 dark:via-violet-800 dark:to-pink-500 md:px-20 lg:px-0 lg:pt-28
     <div class="mt-12">
       <picture class="px-8 md:px-0">
         <source
-          srcset="node-red tap-csv.png"
+          srcset="node-red-tap-csv.png"
           media="(prefers-color-scheme: dark) and (min-width: 1024px)"
         />
-        <source srcset="node-red tap-csv" media="(min-width: 1024px)" />
+        <source srcset="node-red-tap-csv.png" media="(min-width: 1024px)" />
         <source
-          srcset="node-red tap-csv.png"
+          srcset="node-red-tap-csv.png"
           media="(prefers-color-scheme: dark) and (min-width: 768px)"
         />
-        <source srcset="node-red tap-csv" media="(min-width: 768px)" />
+        <source srcset="node-red-tap-csv.png" media="(min-width: 768px)" />
         <source
-          srcset="node-red tap-csv.png"
+          srcset="node-red-tap-csv.png"
           media="(prefers-color-scheme: dark) and (max-width: 768px)"
         />
-        <source srcset="node-red tap-csv" media="(max-width: 768px)" />
+        <source srcset="node-red-tap-csv.png" media="(max-width: 768px)" />
         <img
-          src="/node-red tap-csv.png"
+          src="/node-red-tap-csv.png"
           title="gulp-etl in Node-red"
           alt="gulp-etl in Node-red"
           loading="eager"
